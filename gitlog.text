@@ -1,0 +1,35 @@
+commit a6434359b44b4f51a2fc01f903396378a3310d80
+Author: Johnny Bryant <mbryant@mines.edu>
+Date:   Wed Sep 27 13:33:37 2023 -0600
+
+    Changed the width of cat's left eye.
+
+commit 31f4b8757123132f7c5c5d58d05ad7b750447f87
+Author: Thomas Coates <tcoates@mines.edu>
+Date:   Wed Sep 27 13:30:45 2023 -0600
+
+    increased mouth height +10
+
+commit 2e07b8aab67db526a4f7417d9a13d84881042e74
+Author: Johnny Bryant <mbryant@mines.edu>
+Date:   Wed Sep 27 13:24:43 2023 -0600
+
+    Changed cat's mouth color to green.
+
+commit d52c123a8dbf532017b05bbdadf7934a53e8a39b
+Author: Thomas Coates <tcoates@mines.edu>
+Date:   Wed Sep 27 13:21:04 2023 -0600
+
+    changed cat's eyes to black
+
+commit d563c4644f0559c8596358263a57109607762e3b
+Author: Johnny Bryant <mbryant@mines.edu>
+Date:   Wed Sep 27 07:56:30 2023 -0600
+
+    Changed cat's face to red.
+
+commit e53f0eec98e03e549e8a3a17be0c2bb6413dd27a
+Author: Thomas Coates <tcoates@mines.edu>
+Date:   Tue Sep 26 14:39:42 2023 -0600
+
+    added src and .gitignore files
